@@ -1,0 +1,18 @@
+[一个背景层，四位时间]类图片数字表盘制作方法：
+
+1.修改表盘背景图片名称为：background.bmp放至表盘项目文件的对应位置
+
+2.修改时间数字图片名称依次为：0_time.bmp~9_time.bmp放至表盘项目文件的对应位置
+
+3.修改appinfo.json文件中的uuid及项目名称
+
+4.打开watchface_bighero.c文件（该Ｃ文件可任意命名），修改项目说明及如下项目图片坐标：
+
+/*图片坐标：第一项为背景图片，后面依次为时间的1~4位*/
+static uint8_t ORIGIN_X[5] = {0, 60, 75, 95, 110};
+static uint8_t ORIGIN_Y[5] = {0, 12, 12, 12, 12};
+static uint8_t ORIGIN_H[5] = {128, 14, 14, 14, 14};
+static uint8_t ORIGIN_W[5] = {128, 15, 15, 15, 15};
+
+
+
