@@ -1,0 +1,64 @@
+{
+  "uuid": "9b95978b5e5d909e98e407be1c071056",
+  "name": "迷宫",
+  "icon": "RES_BITMAP_WATCHFACE_BG",
+  "version": "1.2.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG",
+        "file": "maze.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIME_0",
+        "file": "0_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIME_1",
+        "file": "1_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIME_2",
+        "file": "2_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIME_3",
+        "file": "3_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIME_4",
+        "file": "4_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIME_5",
+        "file": "5_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIME_6",
+        "file": "6_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIME_7",
+        "file": "7_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIME_8",
+        "file": "8_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIME_9",
+        "file": "9_time.bmp"
+      }
+      ]
+      }

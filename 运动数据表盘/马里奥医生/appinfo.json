@@ -1,0 +1,74 @@
+{
+  "uuid": "e0b6b3ff3bd761660ad0828b2f4f7735",
+  "name": "马里奥医生",
+  "icon": "PIC_BG",
+  "version": "1.0.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "PIC_BG",
+        "file": "bg.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_P",
+        "file": "P.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_A",
+        "file": "A.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_0_1",
+        "file": "0.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_1_1",
+        "file": "1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_2_1",
+        "file": "2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_3_1",
+        "file": "3.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_4_1",
+        "file": "4.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_5_1",
+        "file": "5.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_6_1",
+        "file": "6.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_7_1",
+        "file": "7.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_8_1",
+        "file": "8.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_9_1",
+        "file": "9.bmp"
+      }
+      ]
+}

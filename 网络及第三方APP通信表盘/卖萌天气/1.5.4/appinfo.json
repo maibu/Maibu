@@ -1,0 +1,69 @@
+{
+  "uuid": "39fe260221d9717da155d14404ca4054",
+  "name": "¬Ù√»ÃÏ∆¯",
+  "icon": "RES_BITMAP_WATCHFACE_WEATHER_BG",
+  "version": "1.5.4",
+  "sysapp": "1",
+  "resources": [
+        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_BG",
+        "file": "watchface-bg.bmp"
+      },
+      
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_UPDATING",
+        "file": "updating.bmp"
+      },
+      
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_CLOUDY_DAY",
+        "file": "cloudy_day.bmp"
+      },
+      
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_CLOUDY_NIGHT",
+        "file": "cloudy_night.bmp"
+      },
+      
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_FOG",
+        "file": "fog.bmp"
+      },
+      
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_OVERCAST",
+        "file": "overcast.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_RAIN",
+        "file": "rain.bmp"
+      },
+      
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_SNOW",
+        "file": "snow.bmp"
+      },
+      
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_SUNNY_DAY",
+        "file": "sunny_day.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_SUNNY_NIGHT",
+        "file": "sunny_night.bmp"
+      }
+      
+      
+      
+      ]
+      }

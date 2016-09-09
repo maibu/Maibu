@@ -1,0 +1,19 @@
+{
+  "uuid": "66f0001ba28b37d4dee6e7e86c130f04",
+  "name": "卡地亚表盘",
+  "icon": "",
+  "version": "1.2.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_CARTIER_CENTER",
+        "file": "point.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_CARTIER_BG",
+        "file": "cartier_bg.bmp"
+      }
+      ]
+      }

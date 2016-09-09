@@ -1,0 +1,14 @@
+{
+  "uuid": "241f5dfb2c8f8f661fc629b1b0085660",
+  "name": "行者",
+  "icon": "",
+  "version": "1.1.6",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BICYCLE_TEXT",
+        "file": "text.bmp"
+      }
+      ]
+      }

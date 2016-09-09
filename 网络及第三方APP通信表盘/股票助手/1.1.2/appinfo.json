@@ -1,0 +1,19 @@
+{
+  "uuid": "0ee09b1415d933a77221320c0ab61be6",
+  "name": "股票助手",
+  "icon": "IMAGE_ICON",
+  "version": "1.0.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "BMP_STOCK_BG",
+        "file": "bg.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "BMP_STOCK_UNDERLINE",
+        "file": "underline.bmp"
+      }
+      ]
+      }

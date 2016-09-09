@@ -1,0 +1,119 @@
+{
+  "uuid": "1b5a57a6a0a50087ca62044a5985c8b4",
+  "name": "超级玛丽",
+  "icon": "SUPER_MARIO_BG",
+  "version": "1.0.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "SUPER_MARIO_BG",
+        "file": "bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SMALL_NUM_0_BMP",
+        "file": "0s.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SMALL_NUM_1_BMP",
+        "file": "1s.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SMALL_NUM_2_BMP",
+        "file": "2s.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SMALL_NUM_3_BMP",
+        "file": "3s.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SMALL_NUM_4_BMP",
+        "file": "4s.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SMALL_NUM_5_BMP",
+        "file": "5s.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SMALL_NUM_6_BMP",
+        "file": "6s.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SMALL_NUM_7_BMP",
+        "file": "7s.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SMALL_NUM_8_BMP",
+        "file": "8s.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SMALL_NUM_9_BMP",
+        "file": "9s.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BIG_NUM_0_BMP",
+        "file": "0.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BIG_NUM_1_BMP",
+        "file": "1.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BIG_NUM_2_BMP",
+        "file": "2.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BIG_NUM_3_BMP",
+        "file": "3.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BIG_NUM_4_BMP",
+        "file": "4.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BIG_NUM_5_BMP",
+        "file": "5.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BIG_NUM_6_BMP",
+        "file": "6.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BIG_NUM_7_BMP",
+        "file": "7.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BIG_NUM_8_BMP",
+        "file": "8.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BIG_NUM_9_BMP",
+        "file": "9.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "WHITE_BG_BMP",
+        "file": "white.bmp"
+      }
+      ]
+      }

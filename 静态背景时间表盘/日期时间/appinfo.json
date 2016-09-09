@@ -1,0 +1,14 @@
+{
+  "uuid": "d7cac589dd44d71a4cad4c8e381a179b",
+  "name": "黑月日",
+  "icon": "",
+  "version": "1.1.1",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_MWD_BG",
+        "file": "mwd_bg.bmp"
+      }
+      ]
+      }

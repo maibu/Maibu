@@ -1,0 +1,14 @@
+{
+  "uuid": "ead678d47ec2ad62ca5f0a6a1a085481",
+  "name": "乔布斯",
+  "icon": "",
+  "version": "1.1.1",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_JOBS_BG",
+        "file": "jobs_bg.bmp"
+      }
+      ]
+      }

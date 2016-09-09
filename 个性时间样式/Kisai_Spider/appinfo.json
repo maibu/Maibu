@@ -1,0 +1,186 @@
+{
+  "uuid": "8b626f3d4db64c058bef81024e743883",
+  "name": "Kisai_Spider",
+  "icon": "RES_BITMAP_WATCHFACE_BG",
+  "version": "1.0.1",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG",
+        "file": "bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_0",
+        "file": "xl_0.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_1",
+        "file": "xl_1.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_2",
+        "file": "xl_2.bmp"
+      },
+	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_0",
+        "file": "l_0.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_1",
+        "file": "l_1.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_2",
+        "file": "l_2.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_3",
+        "file": "l_3.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_4",
+        "file": "l_4.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_5",
+        "file": "l_5.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_6",
+        "file": "l_6.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_7",
+        "file": "l_7.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_8",
+        "file": "l_8.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_9",
+        "file": "l_9.bmp"
+      },
+	 	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_0",
+        "file": "m_0.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_1",
+        "file": "m_1.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_2",
+        "file": "m_2.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_3",
+        "file": "m_3.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_4",
+        "file": "m_4.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_5",
+        "file": "m_5.bmp"
+      },	
+  	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_SMALL_0",
+        "file": "s_0.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_SMALL_1",
+        "file": "s_1.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_SMALL_2",
+        "file": "s_2.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_SMALL_3",
+        "file": "s_3.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_SMALL_4",
+        "file": "s_4.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_SMALL_5",
+        "file": "s_5.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_SMALL_6",
+        "file": "s_6.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_SMALL_7",
+        "file": "s_7.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_SMALL_8",
+        "file": "s_8.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_SMALL_9",
+        "file": "s_9.bmp"
+      }
+	  	  
+      ]
+      }

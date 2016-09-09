@@ -1,0 +1,15 @@
+{
+  "uuid": "0ebf567a20836452ac0827b494ab6b70",
+  "name": "火星聚合",
+  "icon": "RES_BITMAP_WATCHFACE_MARS_BG",
+  "version": "1.0.1",
+  "watchface": "true",
+  "resources": [
+        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_MARS_BG",
+        "file": "bg.bmp"
+      } 
+            
+      ]
+      }

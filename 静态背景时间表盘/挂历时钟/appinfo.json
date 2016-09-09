@@ -1,0 +1,159 @@
+{
+  "uuid": "9c6d2ebd6495af3ec11922553b112bf6",
+  "name": "π“¿˙ ±÷”",
+  "icon": "",
+  "version": "1.0.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "PIC_BG",
+        "file": "bg.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_0_1",
+        "file": "0_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_1_1",
+        "file": "1_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_2_1",
+        "file": "2_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_3_1",
+        "file": "3_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_4_1",
+        "file": "4_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_5_1",
+        "file": "5_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_6_1",
+        "file": "6_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_7_1",
+        "file": "7_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_8_1",
+        "file": "8_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_9_1",
+        "file": "9_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_0_2",
+        "file": "0_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_1_2",
+        "file": "1_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_2_2",
+        "file": "2_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_3_2",
+        "file": "3_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_4_2",
+        "file": "4_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_5_2",
+        "file": "5_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_6_2",
+        "file": "6_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_7_2",
+        "file": "7_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_8_2",
+        "file": "8_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_9_2",
+        "file": "9_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_1_3",
+        "file": "1_3.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_2_3",
+        "file": "2_3.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_3_3",
+        "file": "3_3.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_4_3",
+        "file": "4_3.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_5_3",
+        "file": "5_3.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_6_3",
+        "file": "6_3.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_0_3",
+        "file": "0_3.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_100",
+        "file": "100.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_BLANK",
+        "file": "blank.bmp"
+      }
+      ]
+}

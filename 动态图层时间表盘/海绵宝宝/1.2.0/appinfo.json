@@ -1,0 +1,144 @@
+{
+  "uuid": "965944d51a58c6d422e9d4c42a5121fa",
+  "name": "海绵宝宝",
+  "icon": "SPONGE_BOB_ICON",
+  "version": "1.2.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "COLON_ICON",
+        "file": "colon.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_01_ICON",
+        "file": "01.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_02_ICON",
+        "file": "02.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_03_ICON",
+        "file": "03.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_04_ICON",
+        "file": "04.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_05_ICON",
+        "file": "05.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_06_ICON",
+        "file": "06.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_07_ICON",
+        "file": "07.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_08_ICON",
+        "file": "08.bmp"
+      },      
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_09_ICON",
+        "file": "09.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_10_ICON",
+        "file": "10.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_11_ICON",
+        "file": "11.bmp"
+      },      
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_12_ICON",
+        "file": "12.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_13_ICON",
+        "file": "13.bmp"
+      },      
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_14_ICON",
+        "file": "14.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_15_ICON",
+        "file": "15.bmp"
+      },      
+      {
+        "type": "bmp",
+        "name": "SPONGEBOB_16_ICON",
+        "file": "16.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_0_BMP",
+        "file": "0.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_1_BMP",
+        "file": "1.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_2_BMP",
+        "file": "2.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_3_BMP",
+        "file": "3.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_4_BMP",
+        "file": "4.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_5_BMP",
+        "file": "5.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_6_BMP",
+        "file": "6.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_7_BMP",
+        "file": "7.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_8_BMP",
+        "file": "8.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_9_BMP",
+        "file": "9.bmp"
+      }
+      ]
+      }

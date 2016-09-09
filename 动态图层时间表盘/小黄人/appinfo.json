@@ -1,0 +1,84 @@
+{
+  "uuid": "93f101f82d77c9e5731c57f2a59cfc6f",
+  "name": "小黄人",
+  "icon": "",
+  "version": "1.0.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "PIC_BG",
+        "file": "bg.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_0_1",
+        "file": "0.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_1_1",
+        "file": "1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_2_1",
+        "file": "2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_3_1",
+        "file": "3.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_4_1",
+        "file": "4.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_5_1",
+        "file": "5.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_6_1",
+        "file": "6.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_7_1",
+        "file": "7.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_8_1",
+        "file": "8.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_9_1",
+        "file": "9.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_1",
+        "file": "minion1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_2",
+        "file": "minion2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_3",
+        "file": "minion3.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_4",
+        "file": "minion4.bmp"
+      }
+      ]
+}

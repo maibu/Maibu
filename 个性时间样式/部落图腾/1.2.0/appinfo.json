@@ -1,0 +1,124 @@
+{
+  "uuid": "f457188bcc659dd2de84e08170abb3c3",
+  "name": "部落图腾",
+  "icon": "NUMBER_0_BMP",
+  "version": "1.2.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "NUMBER_0_BMP",
+        "file": "0.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_1_BMP",
+        "file": "1.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_2_BMP",
+        "file": "2.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_3_BMP",
+        "file": "3.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_4_BMP",
+        "file": "4.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_5_BMP",
+        "file": "5.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_6_BMP",
+        "file": "6.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_7_BMP",
+        "file": "7.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_8_BMP",
+        "file": "8.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_9_BMP",
+        "file": "9.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_10_BMP",
+        "file": "10.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_0B_BMP",
+        "file": "0b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_1B_BMP",
+        "file": "1b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_2B_BMP",
+        "file": "2b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_3B_BMP",
+        "file": "3b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_4B_BMP",
+        "file": "4b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_5B_BMP",
+        "file": "5b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_6B_BMP",
+        "file": "6b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_7B_BMP",
+        "file": "7b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_8B_BMP",
+        "file": "8b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_9B_BMP",
+        "file": "9b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "NUMBER_10B_BMP",
+        "file": "10b.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "FULL_BLACK_BMP",
+        "file": "full_black.bmp"
+      }
+      ]
+      }

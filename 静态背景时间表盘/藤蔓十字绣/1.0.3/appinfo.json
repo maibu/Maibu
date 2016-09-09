@@ -1,0 +1,114 @@
+{
+  "uuid": "028aeb223182487329dfd1a348612370",
+  "name": "藤蔓十字绣",
+  "icon": "RES_BITMAP_WATCHFACE_VINES_BG",
+  "version": "1.0.3",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "PIC_BG",
+        "file": "vines.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_0_1",
+        "file": "0_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_1_1",
+        "file": "1_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_2_1",
+        "file": "2_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_3_1",
+        "file": "3_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_4_1",
+        "file": "4_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_5_1",
+        "file": "5_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_6_1",
+        "file": "6_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_7_1",
+        "file": "7_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_8_1",
+        "file": "8_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_9_1",
+        "file": "9_time.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_0_2",
+        "file": "0_date.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_1_2",
+        "file": "1_date.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_2_2",
+        "file": "2_date.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_3_2",
+        "file": "3_date.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_4_2",
+        "file": "4_date.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_5_2",
+        "file": "5_date.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_6_2",
+        "file": "6_date.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_7_2",
+        "file": "7_date.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_8_2",
+        "file": "8_date.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_9_2",
+        "file": "9_date.bmp"
+      }
+      ]
+      }

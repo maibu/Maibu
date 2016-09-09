@@ -1,0 +1,24 @@
+{
+  "uuid": "5b5b0778d45a2741e7fe55555c4c5d81",
+  "name": "–««Ú¥Û’Ω",
+  "icon": "STYLISH_BLE_FAILED_BMP",
+  "version": "1.1.4",
+  "watchface": "true",
+   "resources": [
+      {
+        "type": "bmp",
+        "name": "STYLISH_BLE_FAILED_BMP",
+        "file": "ble-failed.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "STYLISH_STYLISH_BMP",
+        "file": "stylish.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "STYLISH_WATCHFACE_BMP",
+        "file": "watchface-bg.bmp"
+      }
+      ]
+      }

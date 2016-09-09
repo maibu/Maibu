@@ -1,0 +1,14 @@
+{
+  "uuid": "3bbe7717d8cdbfb181370bf0b16d580e",
+  "name": "计步表盘",
+  "icon": "RES_BITMAP_SPORT_BG",
+  "version": "1.2.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_SPORT_BG",
+        "file": "bg.bmp"
+      }
+      ]
+      }

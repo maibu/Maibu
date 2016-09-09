@@ -1,0 +1,144 @@
+{
+  "uuid": "136ddf87762fb5f54555860f7f01a9ed",
+  "name": "熊本熊",
+  "icon": "RES_BITMAP_WATCHFACE_NUMBER_0",
+  "version": "1.0.0",
+  "watchface": "true",
+  "resources": [
+      
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_0",
+        "file": "0.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_1",
+        "file": "1.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_2",
+        "file": "2.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_3",
+        "file": "3.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_4",
+        "file": "4.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_5",
+        "file": "5.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_6",
+        "file": "6.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_7",
+        "file": "7.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_8",
+        "file": "8.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_9",
+        "file": "9.bmp"
+      },	
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG",
+        "file": "bg.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_1",
+        "file": "bg_01.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_2",
+        "file": "bg_02.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_3",
+        "file": "bg_03.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_4",
+        "file": "bg_04.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_5",
+        "file": "bg_05.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_6",
+        "file": "bg_06.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_7",
+        "file": "bg_07.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_8",
+        "file": "bg_08.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_9",
+        "file": "bg_09.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_10",
+        "file": "bg_10.bmp"
+      },	
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_11",
+        "file": "bg_11.bmp"
+      },	
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG_12",
+        "file": "bg_12.bmp"
+      }
+	  
+	  
+	  	  
+      ]
+      }

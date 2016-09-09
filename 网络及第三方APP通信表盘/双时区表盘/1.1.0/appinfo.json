@@ -1,0 +1,65 @@
+{
+  "uuid": "93b968459cda9d44859f7b468808beb1",
+  "name": "双时表盘",
+  "icon": "",
+  "version": "1.1.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_BG",
+        "file": "bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_0",
+        "file": "0.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_1",
+        "file": "1.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_2",
+        "file": "2.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_3",
+        "file": "3.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_4",
+        "file": "4.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_5",
+        "file": "5.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_6",
+        "file": "6.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_7",
+        "file": "7.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_8",
+        "file": "8.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TIMEZONE_9",
+        "file": "9.bmp"
+      }
+	  	        
+      ]
+      }

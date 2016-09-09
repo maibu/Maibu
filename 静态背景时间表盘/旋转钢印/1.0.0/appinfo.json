@@ -1,0 +1,64 @@
+{
+  "uuid": "72b18541951b3f22a7668a7e6ebcf80f",
+  "name": "Ðý×ª¸ÖÓ¡",
+  "icon": "BITMAP_WATCHFACE_STEEL_0",
+  "version": "1.1.1",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_0",
+        "file": "0.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_1",
+        "file": "1.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_2",
+        "file": "2.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_3",
+        "file": "3.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_4",
+        "file": "4.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_5",
+        "file": "5.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_6",
+        "file": "6.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_7",
+        "file": "7.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_8",
+        "file": "8.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_9",
+        "file": "9.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STEEL_BG",
+        "file": "steel_bg.bmp"
+      }
+      ]
+      }

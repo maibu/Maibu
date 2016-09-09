@@ -1,0 +1,124 @@
+{
+  "uuid": "7b4db0470d83bd231a3ae5c5af4173c6",
+  "name": "复古磁带",
+  "icon": "RES_BITMAP_WATCHFACE_BG",
+  "version": "1.0.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG",
+        "file": "bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_0",
+        "file": "0.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_1",
+        "file": "1.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_2",
+        "file": "2.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_3",
+        "file": "3.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_4",
+        "file": "4.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_5",
+        "file": "5.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_6",
+        "file": "6.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_7",
+        "file": "7.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_8",
+        "file": "8.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_9",
+        "file": "9.bmp"
+      },	
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEEK_MON",
+        "file": "MON.bmp"
+      },
+	{
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEEK_TUE",
+        "file": "TUE.bmp"
+      },
+	{
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEEK_THU",
+        "file": "THU.bmp"
+      },
+	{
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEEK_WED",
+        "file": "WED.bmp"
+      },
+	{
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEEK_FRI",
+        "file": "FRI.bmp"
+      },
+	 {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEEK_SAT",
+        "file": "SAT.bmp"
+      },	
+	 {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEEK_SUN",
+        "file": "SUN.bmp"
+      },	  
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_MOVE_1",
+        "file": "move_1.bmp"
+      },
+	   {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_MOVE_2",
+        "file": "move_2.bmp"
+      },
+	   {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_MOVE_3",
+        "file": "move_3.bmp"
+      }
+	  	  
+      ]
+      }

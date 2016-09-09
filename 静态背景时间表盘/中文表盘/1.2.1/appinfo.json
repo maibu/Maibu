@@ -1,0 +1,114 @@
+{
+  "uuid": "2b87c7ff2197bff1cd1fa3b890c0b92f",
+  "name": "中文大写",
+  "icon": "RES_BITMAP_WATCHFACE_BG",
+  "version": "1.2.1",
+  "watchface": "true",
+  "resources": [
+  	  {
+        "type": "bmp",
+        "name": "PIC_background",
+        "file": "background.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_0_1",
+        "file": "0_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_1_1",
+        "file": "1_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_2_1",
+        "file": "2_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_3_1",
+        "file": "3_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_4_1",
+        "file": "4_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_5_1",
+        "file": "5_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_6_1",
+        "file": "6_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_7_1",
+        "file": "7_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_8_1",
+        "file": "8_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_9_1",
+        "file": "9_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_0_2",
+        "file": "0_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_1_2",
+        "file": "1_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_2_2",
+        "file": "2_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_3_2",
+        "file": "3_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_4_2",
+        "file": "4_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_5_2",
+        "file": "5_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_6_2",
+        "file": "6_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_7_2",
+        "file": "7_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_8_2",
+        "file": "8_2.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "PIC_9_2",
+        "file": "9_2.bmp"
+      }
+      ]
+      }

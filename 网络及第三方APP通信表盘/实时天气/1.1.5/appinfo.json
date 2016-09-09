@@ -1,0 +1,69 @@
+{
+  "uuid": "88bbfff05ff0d28df15ccead0b75e3ea",
+  "name": "ÃÏ∆¯±Ì≈Ã",
+  "icon": "RES_BITMAP_WATCHFACE_WEATHER_BG",
+  "version": "1.1.5",
+  "watchface": "true",
+  "resources": [
+        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_BG",
+        "file": "background.bmp"
+      },
+	    {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_CLOUDY",
+        "file": "icon_cloudy.bmp"
+      },
+	  	    {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_FOG",
+        "file": "icon_fog.bmp"
+      },
+	  	    {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_OVERCAST",
+        "file": "icon_overcast.bmp"
+      },
+	  	    {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_RAIN_1",
+        "file": "icon_rain_1.bmp"
+      },
+	  	    {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_RAIN_2",
+        "file": "icon_rain_2.bmp"
+      },
+	  	    {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_RAIN_3",
+        "file": "icon_rain_3.bmp"
+      },
+	  	    {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_SNOW_1",
+        "file": "icon_snow_1.bmp"
+      },
+	  	    {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_SNOW_2",
+        "file": "icon_snow_2.bmp"
+      },
+	  	    {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_SNOW_3",
+        "file": "icon_snow_3.bmp"
+      },
+	  	    {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_SUNNY",
+        "file": "icon_sunny.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_WEATHER_NODATA",
+        "file": "refreshing.bmp"
+      }
+      ]
+      }
