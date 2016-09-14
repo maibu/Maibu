@@ -418,7 +418,7 @@ P_Window init_triangle_watch(void)
 	app_service_get_datetime(&datetime);
 
 	GRect frame = {{TRIANGLE_BG_ORIGIN_X, TRIANGLE_BG_ORIGIN_Y}, {TRIANGLE_BG_SIZE_H, TRIANGLE_BG_SIZE_W}};
-	bgl = get_bmp_layer(&frame,RES_BITMAP_WATCHFACE_OFFICIAL_BG);
+	bgl = get_bmp_layer(&frame,RES_BITMAP_WATCHFACE_OFFICIAL_BG01);
 	
 	ml = get_time_hand_layer(datetime.min,min_pos);
 
@@ -431,7 +431,7 @@ P_Window init_triangle_watch(void)
 	frame.size.h = TRIANGLE_CENTER_SIZE_H;
 	frame.size.w = TRIANGLE_CENTER_SIZE_W;
 
-	cl2 = get_bmp_layer(&frame,RES_BITMAP_WATCHFACE_OFFICIAL_CENTER);
+	cl2 = get_bmp_layer(&frame,RES_BITMAP_WATCHFACE_OFFICIAL_CENTER01);
 
 
 	/*添加图层到窗口*/

@@ -7,12 +7,12 @@
   "resources": [
       {
         "type": "bmp",
-        "name": "RES_BITMAP_WATCHFACE_OFFICIAL_BG",
+        "name": "RES_BITMAP_WATCHFACE_OFFICIAL_BG01",
         "file": "official_bg.bmp"
       },
 	        {
         "type": "bmp",
-        "name": "RES_BITMAP_WATCHFACE_OFFICIAL_CENTER",
+        "name": "RES_BITMAP_WATCHFACE_OFFICIAL_CENTER01",
         "file": "center.bmp"
       }
       ]
