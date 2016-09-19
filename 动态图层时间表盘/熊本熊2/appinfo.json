@@ -1,0 +1,128 @@
+{
+  "uuid": "4e907d5e230ba6f8c1d71dc16347939a",
+  "name": "熊本熊2",
+  "icon": "RES_BITMAP_WATCHFACE_FACE_1",
+  "version": "1.0.1",
+  "watchface": "true",
+  "resources": [
+     
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_FACE_1",
+        "file": "face_1.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_FACE_2",
+        "file": "face_2.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_FACE_3",
+        "file": "face_3.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_FACE_4",
+        "file": "face_4.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_FACE_5",
+        "file": "face_5.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_FACE_6",
+        "file": "face_6.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_FACE_7",
+        "file": "face_7.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_FACE_8",
+        "file": "face_8.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_0",
+        "file": "0.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_1",
+        "file": "1.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_2",
+        "file": "2.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_3",
+        "file": "3.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_4",
+        "file": "4.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_5",
+        "file": "5.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_6",
+        "file": "6.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_7",
+        "file": "7.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_8",
+        "file": "8.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_9",
+        "file": "9.bmp"
+      },
+	 	
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STYLE_1",
+        "file": "style_1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_STYLE_2",
+        "file": "style_2.bmp"
+      }
+	  	  
+      ]
+      }
