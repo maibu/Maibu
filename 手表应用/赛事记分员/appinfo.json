@@ -1,0 +1,29 @@
+{
+  "uuid": "36eee75e28a7cbf5ea614530b1444c80",
+  "name": "赛事记分员",
+  "icon": "RES_BITMAP_WATCHAPP_COUNT_SCORE_ICON",
+  "version": "1.1.3",
+  "watchface": "false",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_COUNT_SCORE_BG_BMP",
+        "file": "bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_COUNT_SCORE_INTRO_BMP",
+        "file": "intro.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_COUNT_SCORE_CLEAR_BMP",
+        "file": "clear.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_COUNT_SCORE_ICON",
+        "file": "icon.bmp"
+      }
+      ]
+      }

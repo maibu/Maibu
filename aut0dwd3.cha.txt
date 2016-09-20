@@ -1,0 +1,22 @@
+﻿useless
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch edit
+# Your branch is up-to-date with 'origin/edit'.
+#
+# Changes to be committed:
+#	deleted:    1.5.1/appinfo.json
+#	deleted:    1.5.1/new_weather_watchface.c
+#	deleted:    1.5.1/resources/images/cloudy_day.bmp
+#	deleted:    1.5.1/resources/images/cloudy_night.bmp
+#	deleted:    1.5.1/resources/images/fog.bmp
+#	deleted:    1.5.1/resources/images/overcast.bmp
+#	deleted:    1.5.1/resources/images/rain.bmp
+#	deleted:    1.5.1/resources/images/snow.bmp
+#	deleted:    1.5.1/resources/images/sunny_day.bmp
+#	deleted:    1.5.1/resources/images/sunny_night.bmp
+#	deleted:    1.5.1/resources/images/updating.bmp
+#	deleted:    1.5.1/resources/images/watchface-bg.bmp
+#	deleted:    1.5.1/v151MaiMengTianQi.MAI
+#
+

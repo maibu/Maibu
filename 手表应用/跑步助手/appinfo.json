@@ -1,0 +1,50 @@
+{
+  "uuid": "b03cc72ac80b8f750e38c43ea70f1279",
+  "name": "跑步助手",
+  "icon": "RES_BITMAP_WATCHAPP_RUN_HELPER_ICON",
+  "version": "1.2.3",
+  "watchface": "false",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_RUN_HELPER_ICON",
+        "file": "icon.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_RUN_HELPER_INTRO_BMP",
+        "file": "intro.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_RUN_HELPER_LABEL_BMP",
+        "file": "label.bmp"
+      },
+	   {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_RUN_HELPER_LABEL_SIDE_BG_BMP",
+        "file": "label_side_bg.bmp"
+      },
+	 
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_RUN_HELPER_SIDE_BG_BMP",
+        "file": "side_bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_RUN_HELPER_SIDE_PLAY_BMP",
+        "file": "play.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_RUN_HELPER_SIDE_PAUSE_BMP",
+        "file": "pause.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_RUN_HELPER_FINISH_BMP",
+        "file": "finish.bmp"
+      }
+      ]
+      }

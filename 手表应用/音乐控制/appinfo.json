@@ -1,0 +1,39 @@
+{
+  "uuid": "2da96f1d9b16fc20180ae18d52960473",
+  "name": "音乐控制",
+  "icon": "IMAGE_ICON",
+  "version": "1.0.6",
+  "watchface": "false",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "icon_music.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "BMP_MUSIC_NEXT_BUTN",
+        "file": "next.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "BMP_MUSIC_PLAY_BUTN",
+        "file": "play.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "BMP_MUSIC_PREV_BUTN",
+        "file": "previous.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "BMP_MUSIC_SIDE_BAR",
+        "file": "side_bar.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "BMP_MUSIC_BLACK",
+        "file": "black.bmp"
+      }
+      ]
+      }

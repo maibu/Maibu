@@ -1,0 +1,44 @@
+{
+  "uuid": "4ce3da4df2ec7ae50de0dce55d8a53eb",
+  "name": "健康管家",
+  "icon": "IMAGE_ICON",
+  "version": "1.4.1",
+  "watchface": "false",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "health_logo.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_HEALTH_INTRO_1",
+        "file": "health_intro_1.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_HEALTH_INTRO_2",
+        "file": "health_intro_2.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_HEALTH_INTRO_3",
+        "file": "health_intro_3.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_HEALTH_INTRO_4",
+        "file": "health_intro_4.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_HEALTH_STAND_ALARM",
+        "file": "health_stand_alarm.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_HEALTH_CUP",
+        "file": "health_cup.bmp"
+      }
+      ]
+      }

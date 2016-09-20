@@ -1,0 +1,89 @@
+{
+  "uuid": "fc581c549d0e14b9347bb0997e5193ae",
+  "name": "7分钟锻炼",
+  "icon": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ICON",
+  "version": "1.1.3",
+  "watchface": "false",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_READY",
+        "file": "ready.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION1",
+        "file": "exer-01.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION2",
+        "file": "exer-02.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION3",
+        "file": "exer-03.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION4",
+        "file": "exer-04.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION5",
+        "file": "exer-05.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION6",
+        "file": "exer-06.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION7",
+        "file": "exer-07.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION8",
+        "file": "exer-08.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION9",
+        "file": "exer-09.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION10",
+        "file": "exer-10.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION11",
+        "file": "exer-11.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ACTION12",
+        "file": "exer-12.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_REST",
+        "file": "rest.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_ICON",
+        "file": "icon.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_SEVEN_SPORTS_END_BMP",
+        "file": "end.bmp"
+      }	  
+      ]
+      }

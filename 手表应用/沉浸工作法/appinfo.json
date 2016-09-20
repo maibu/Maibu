@@ -1,0 +1,108 @@
+{
+  "uuid": "186a76b1415219cf4228cc53985ada81",
+  "name": "沉浸工作法",
+  "icon": "IMAGE_ICON",
+  "version": "1.0.2",
+  "watchface": "false",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "icon.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_BG_01",
+        "file": "bg-01.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_BG_02",
+        "file": "bg-02.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_IMMERSING_END",
+        "file": "immersing_end.bmp"
+      },
+	   {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_REST_END",
+        "file": "rest_end.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_REST",
+        "file": "rest.bmp"
+      },  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_IMMERSING",
+        "file": "immersing.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_MAO_HAO",
+        "file": "maohao.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_0",
+        "file": "0.bmp"
+      },
+	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_1",
+        "file": "1.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_2",
+        "file": "2.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_3",
+        "file": "3.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_4",
+        "file": "4.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_5",
+        "file": "5.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_6",
+        "file": "6.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_7",
+        "file": "7.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_8",
+        "file": "8.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_9",
+        "file": "9.bmp"
+      }
+      ]
+      }

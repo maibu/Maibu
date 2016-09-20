@@ -1,0 +1,26 @@
+{
+  "uuid": "cf809f2e4bfbd88c6bf5f2f5543f312f",
+  "name": "秒表",
+  "icon": "RES_BITMAP_WATCHAPP_STOPWATCH_ICON",
+  "version": "1.1.6",
+  "watchface": "false",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_STOPWATCH_ICON",
+        "file": "icon.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_STOPWATCH_SIDE_BG_BMP",
+        "file": "side_bg.bmp"
+      },
+      
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_STOPWATCH_SIDE_PAUSE_BMP",
+        "file": "side_pause.bmp"
+      }
+      
+      ]
+      }

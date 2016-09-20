@@ -1,0 +1,24 @@
+{
+  "uuid": "86f77d6560f0003c9d959d77c3720d74",
+  "name": "Maze",
+  "icon": "IMAGE_ICON",
+  "version": "1.0.0",
+  "watchface": "false",
+  "resources": [
+        {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "maze_logo.bmp"
+        },
+        {
+        "type": "bmp",
+        "name": "RES_BITMAP_LEVEL_1_1",
+        "file": "level1-1.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "BALL",
+        "file": "ball.bmp"
+      }
+      ]
+      }

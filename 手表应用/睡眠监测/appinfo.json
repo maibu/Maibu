@@ -1,0 +1,122 @@
+{
+  "uuid": "9604fb489a443255fd2d316521bb6cda",
+  "name": "睡眠监测",
+  "icon": "IMAGE_ICON",
+  "version": "1.0.2",
+  "watchface": "false",
+  "resources": [
+        {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "icon-menu-sleep.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_BMG_2",
+        "file": "weekInfo-bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_BMG_1",
+        "file": "yesterday.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_LV_0",
+        "file": "LV_0.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_LV_1",
+        "file": "LV_1.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_LV_2",
+        "file": "LV_2.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_LV_3",
+        "file": "LV_3.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_NO_0",
+        "file": "0.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_NO_1",
+        "file": "1.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_NO_2",
+        "file": "2.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_NO_3",
+        "file": "3.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_NO_4",
+        "file": "4.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_NO_5",
+        "file": "5.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_NO_6",
+        "file": "6.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_NO_7",
+        "file": "7.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_NO_8",
+        "file": "8.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_NO_9",
+        "file": "9.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_TIME_HOUR",
+        "file": "hour.bmp"
+      }
+      ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_TIME_MIN",
+        "file": "minute.bmp"
+      }
+       ,
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_EMPTY_IMAGE",
+        "file": "EMPTY_IMAGE.bmp"
+      }
+      ]
+      }

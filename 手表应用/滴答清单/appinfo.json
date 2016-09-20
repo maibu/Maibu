@@ -1,0 +1,29 @@
+{
+  "uuid": "111cccf738752744a9f6df77cf1fa69d",
+  "name": "滴答清单",
+  "icon": "IMAGE_ICON",
+  "version": "1.1.5",
+  "watchface": "false",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "dida_icon.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_DIDA_CHECK_NULL",
+        "file": "unchecked.bmp"
+      },
+	   {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_DIDA_CHECK_OK",
+        "file": "checked.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_DIDA_ALARM",
+        "file": "alarm.bmp"
+      }
+      ]
+      }

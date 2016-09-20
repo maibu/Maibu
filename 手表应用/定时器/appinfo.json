@@ -1,0 +1,34 @@
+{
+  "uuid": "6ea03a96b2638c393498f4ce79d737de",
+  "name": "定时器",
+  "icon": "IMAGE_ICON",
+  "version": "1.1.4",
+  "watchface": "false",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "timer_logo.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_TIMER_CHOOSE_OFF",
+        "file": "timer_choose_off.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_TIMER_SET_BG",
+        "file": "timer_set_bg.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_TIMER_TOP_TIME_BG",
+        "file": "top_time.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_TIMER_SYS_BELL",
+        "file": "timer_sys_bell.bmp"
+      }
+      ]
+      }

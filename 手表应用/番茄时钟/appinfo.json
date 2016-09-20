@@ -1,0 +1,60 @@
+{
+  "uuid": "5327697aecbd9e0b370ce997e618f0a3",
+  "name": "番茄时钟",
+  "icon": "IMAGE_ICON",
+  "version": "1.1.4",
+  "watchface": "false",
+  "sysapp": "2",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "icon.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_BG",
+        "file": "bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_RESTING",
+        "file": "resting.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_BREST",
+        "file": "bres.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_SMALLT1",
+        "file": "smallt1.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_SMALLT2",
+        "file": "smallt2.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_SMALLT3",
+        "file": "smallt3.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_SMALLT4",
+        "file": "smallt4.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_END",
+        "file": "end.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_TOMATO",
+        "file": "tomato.bmp"
+      }
+      ]
+      }
