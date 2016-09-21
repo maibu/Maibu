@@ -142,7 +142,7 @@ void app_SYHX_timer_callback(date_time_t tick_time, uint32_t millis, void *conte
 		int8_t flag = 0;
 		
 		SportData data;
-		maibu_get_SYHX_data(&data, 0);
+		maibu_get_sport_data(&data, 0);
 
 		P_Layer p_layer = app_window_get_layer_by_id(p_window, g_app_SYHX_step_layer_id);
 		if (p_layer)
@@ -233,7 +233,7 @@ P_Window init_SYHX_window()
 
 
 	SportData data;
-	maibu_get_SYHX_data(&data, 0);
+	maibu_get_sport_data(&data, 0);
 	g_SYHX_data = data;
 
 	/*添加步数图层*/
