@@ -142,7 +142,7 @@ void app_SYHX_timer_callback(date_time_t tick_time, uint32_t millis, void *conte
 		int8_t flag = 0;
 		
 		SportData data;
-		maibu_get_SYHX_data(&data, 0);
+		maibu_get_sport_data(&data, 0);
 
 		P_Layer p_layer = app_window_get_layer_by_id(p_window, g_app_SYHX_step_layer_id);
 		if (p_layer)
@@ -209,7 +209,7 @@ P_Window init_SYHX_window()
 	/*添加背景图片图层*/
 	GRect temp_frame = {{SYHX_BG_ORIGIN_X, SYHX_BG_ORIGIN_Y}, {SYHX_BG_SIZE_H, SYHX_BG_SIZE_W}};
 	GBitmap bitmap_bg;
-	res_get_user_bitmap(RES_BITMAP_SYHX_BG, &bitmap_bg);
+	res_get_user_bitmap(RES_BITMAP_SPORT_BG, &bitmap_bg);
 	LayerBitmap lb_bg = {bitmap_bg, temp_frame, GAlignLeft};	
 	P_Layer layer_bitmap_bg = app_layer_create_bitmap(&lb_bg);
 	if(layer_bitmap_bg != NULL)
@@ -233,7 +233,7 @@ P_Window init_SYHX_window()
 
 
 	SportData data;
-	maibu_get_SYHX_data(&data, 0);
+	maibu_get_sport_data(&data, 0);
 	g_SYHX_data = data;
 
 	/*添加步数图层*/
