@@ -209,7 +209,7 @@ P_Window init_SYHX_window()
 	/*添加背景图片图层*/
 	GRect temp_frame = {{SYHX_BG_ORIGIN_X, SYHX_BG_ORIGIN_Y}, {SYHX_BG_SIZE_H, SYHX_BG_SIZE_W}};
 	GBitmap bitmap_bg;
-	res_get_user_bitmap(RES_BITMAP_SYHX_BG, &bitmap_bg);
+	res_get_user_bitmap(RES_BITMAP_SPORT_BG, &bitmap_bg);
 	LayerBitmap lb_bg = {bitmap_bg, temp_frame, GAlignLeft};	
 	P_Layer layer_bitmap_bg = app_layer_create_bitmap(&lb_bg);
 	if(layer_bitmap_bg != NULL)
