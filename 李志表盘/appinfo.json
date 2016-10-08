@@ -1,0 +1,14 @@
+{
+  "uuid": "0d5a40d0e9dec3d85dbb66ab9a9de26c",
+  "name": "李志表盘",
+  "icon": "RES_BITMAP_SPORT_BG",
+  "version": "1.0.0",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_SPORT_BG",
+        "file": "bg.bmp"
+      }
+      ]
+      }
