@@ -25,25 +25,9 @@
 #include <string.h>
 #include <math.h>
 
-#ifdef QT_PLATFORM
-
-#include "../maibu_sdk/maibu_sdk.h"
-#include "../res/app/app_res.h"
-#include "watchapp_health_manager.h"
-#include "../os_kernel/os_printk.h"
-
-#define  LOG_INFO  os_printk
-
-#else
-
 #include "maibu_sdk.h"
 #include "maibu_res.h"
-
 #define  LOG_INFO(...)
-
-#endif
-
-
 
 /* 健康管家界面位置 */
 #define INIT_SCENE_MOVE_BAR_ORIGIN_X              13
@@ -710,7 +694,7 @@ int main(void)
 {
 
     LOG_INFO("Start health manager");
-	//simulator_init();
+	simulator_init();
 
 	/*APP编写*/
 	/*创建日期时间设置窗口*/
@@ -728,7 +712,7 @@ int main(void)
         g_health_timer_id = app_service_timer_subscribe(1000*50, health_timer_callback, (void *)p_window);	//Danger!!!
 	}
 
-	//simulator_wait();
+	simulator_wait();
 
 }
 
