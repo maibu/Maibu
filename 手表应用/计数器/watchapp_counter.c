@@ -25,30 +25,8 @@
 #include <string.h>
 
 
-
-#ifdef LINUX
-#include <unistd.h>
-#include <time.h>
-#include <pthread.h>
-#include "linux_screen_show.h"
-#include "os_store_manage.h"
-#include "os_time.h"
-#include "os_res_bitmap.h"
-#include "os_comm.h"
-#include "res_user_bitmap.h"
-#include "window_stack.h"
-#include "window.h"
-#include "screen_show.h"
-#include "matrix.h"
-#include "plug_status_bar.h"
-#include "res_bitmap_base.h"
-
-#else
-
 #include "maibu_sdk.h"
 #include "maibu_res.h"
-
-#endif
 
 
 
@@ -324,59 +302,12 @@ static P_Window counter_init_window()
 int main()
 {
 
-#ifdef LINUX	
-	/*非APP编写*/	
-	screen_init(SCREEN_ROW_NUMS,SCREEN_COL_NUMS);
-	os_store_manage_init();	
-	window_stack_init();
-	os_comm_init();
-#endif
-
-
 	/*APP编写*/
 	/*创建日期时间设置窗口*/
 	P_Window p_window = counter_init_window(); 
 
 	/*放入窗口栈显示*/
 	app_window_stack_push(p_window);
-
-
-#ifdef LINUX
-	/*非APP编写*/	
-	while (1)
-	{
-		char input;	
-	
-		/*输入操作*/
-		scanf("%c", &input);
-		if (input == 'd')
-		{
-			window_stack_button(ButtonIdDown);	
-		}
-		else if (input == 'u')
-		{
-			window_stack_button(ButtonIdUp);	
-		}	
-		else if (input == 's')
-		{
-			window_stack_button(ButtonIdSelect);		
-		}
-		else if (input == 'b')
-		{
-			window_stack_button(ButtonIdBack);		
-		}
-		else if (input == 'q')
-		{
-			break;
-		}
-	
-	}	
-
-	window_stack_destory();
-	screen_destory();
-	os_store_manage_destory();
-#endif
-
 
 	return 0;
 
