@@ -1,0 +1,150 @@
+{
+  "uuid": "b8360e5bb275b01672c34cfff4ee2e9d",
+  "name": "贪食蛇",
+  "icon": "IMAGE_ICON",
+  "version": "1.0.1",
+  "watchface": "false",
+  "resources": [
+	  
+	  {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "icon-menu-snake.bmp"
+      },
+	  
+      {
+        "type": "bmp",
+        "name": "BMP_SNAKE_TITLE",
+        "file": "title.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "BMP_SNAKE_BLACK_BOTTOM",
+        "file": "black_bottom.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "BMP_SNAKE_GAME_OVER",
+        "file": "game_over.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_0",
+        "file": "big_0.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_1",
+        "file": "big_1.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_2",
+        "file": "big_2.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_3",
+        "file": "big_3.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_4",
+        "file": "big_4.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_5",
+        "file": "big_5.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_6",
+        "file": "big_6.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_7",
+        "file": "big_7.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_8",
+        "file": "big_8.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_9",
+        "file": "big_9.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_0",
+        "file": "lit_0.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_1",
+        "file": "lit_1.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_2",
+        "file": "lit_2.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_3",
+        "file": "lit_3.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_4",
+        "file": "lit_4.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_5",
+        "file": "lit_5.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_6",
+        "file": "lit_6.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_7",
+        "file": "lit_7.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_8",
+        "file": "lit_8.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_9",
+        "file": "lit_9.bmp"
+      }	
+  		 
+	  
+      ]
+      }
