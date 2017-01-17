@@ -1,0 +1,19 @@
+{
+  "uuid": "fbc6186f337ebcb16b15e108f3965d75",
+  "name": "read_file",
+  "icon": "",
+  "version": "0.0.1",
+  "watchface": "flase",
+  "resources": [
+	 {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_TOP_BLACK_BG",
+        "file": "bg.bmp"
+       },
+        {
+        "type": "file",
+        "name": "USER_FILE_KEY",
+        "file": "data.txt"
+      }
+      ]
+      }
