@@ -1,0 +1,56 @@
+{
+  "uuid": "bca00f07805e25da6f0ae6e17a8a30cb",
+  "name": "Pikachu&PokeBall",
+  "icon": "RES_BITMAP_WATCHFACE_ICON",
+  "version": "1.0.0",
+  "watchface": "true",
+  "resources": [
+    {
+      "type": "bmp",
+      "name": "RES_BITMAP_WATCHFACE_ICON",
+      "file": "icon.bmp"
+    },
+
+    {
+      "type": "bmp",
+      "name": "RES_BITMAP_WATCHFACE_ANI_1",
+      "file": "1.bmp"
+    },
+
+    {
+      "type": "bmp",
+      "name": "RES_BITMAP_WATCHFACE_ANI_2",
+      "file": "2.bmp"
+    },
+
+    {
+      "type": "bmp",
+      "name": "RES_BITMAP_WATCHFACE_ANI_3",
+      "file": "3.bmp"
+    },
+
+    {
+      "type": "bmp",
+      "name": "RES_BITMAP_WATCHFACE_ANI_4",
+      "file": "4.bmp"
+    },
+
+    {
+      "type": "bmp",
+      "name": "RES_BITMAP_WATCHFACE_ANI_5",
+      "file": "3.bmp"
+    },
+
+    {
+      "type": "bmp",
+      "name": "RES_BITMAP_WATCHFACE_ANI_6",
+      "file": "2.bmp"
+    },
+
+    {
+      "type": "bmp",
+      "name": "RES_BITMAP_WATCHFACE_BG",
+      "file": "bg.bmp"
+    }
+  ]
+}
