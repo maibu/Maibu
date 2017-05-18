@@ -1,0 +1,25 @@
+{
+  "uuid": "62d7127bbc858f5910d3675a71577054",
+  "name": "股票行情5秒版",
+  "icon": "IMAGE_ICON",
+  "version": "3.0.1",
+  "watchface": "true",
+  "device_type": "120",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "BMP_STOCK_BG",
+        "file": "bg.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "BMP_STOCK_UNDERLINE",
+        "file": "underline.bmp"
+      },
+	  {
+      "type":"bmp",
+      "name":"NOTICE_BITMAP",
+      "file":"timer_sys_bell2.bmp"
+      }
+      ]
+      }

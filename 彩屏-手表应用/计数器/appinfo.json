@@ -1,0 +1,20 @@
+{
+  "uuid": "5c9b580a3ab46734b0c80cf1b66e36ce",
+  "name": "计数器",
+  "icon": "IMAGE_ICON",
+  "version": "3.0.0",
+  "watchface": "false",
+  "device_type": "120",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "counter_icon.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_COUNTER_BG",
+        "file": "counter_bg.bmp"
+      }
+      ]
+      }

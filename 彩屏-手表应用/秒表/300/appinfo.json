@@ -1,0 +1,37 @@
+{
+  "uuid": "57938271bc7eb6024923c51cf61e50a0",
+  "name": "秒表",
+  "icon": "RES_BITMAP_WATCHAPP_STOPWATCH_ICON",
+  "version": "3.0.0",
+  "watchface": "false",
+  "device_type": "120", 
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_STOPWATCH_BG_BMP",
+        "file": "bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_STOPWATCH_ICON",
+        "file": "icon.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_STOPWATCH_SIDE_BG_BMP",
+        "file": "side_bg.bmp"
+      },
+	   {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_STOPWATCH_SIDE_BG1_BMP",
+        "file": "side_bg1.bmp"
+      },
+      
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_STOPWATCH_SIDE_PAUSE_BMP",
+        "file": "side_pause.bmp"
+      }
+      
+      ]
+      }

@@ -1,0 +1,15 @@
+{
+  "uuid": "c531d6351bda839221cefa2d7324a31f",
+  "name": "朴素表盘",
+  "icon": "",
+  "version": "3.0.0",
+  "watchface": "true",
+  "device_type": "120", 
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_MWD_BG",
+        "file": "mwd_bg.bmp"
+      }
+      ]
+      }

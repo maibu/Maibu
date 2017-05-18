@@ -1,0 +1,15 @@
+{
+  "uuid": "c41b603482c0c18b5d20faafcd1f0b32",
+  "name": "”¢Œƒ±Ì≈Ã",
+  "icon": "BITMAP_WATCHFACE_ENGLISH_BG",
+  "version": "3.0.0",
+  "watchface": "true",
+  "device_type": "120", 
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_ENGLISH_BG",
+        "file": "english_bg.bmp"
+      }
+      ]
+      }

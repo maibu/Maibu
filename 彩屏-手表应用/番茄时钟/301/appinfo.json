@@ -1,0 +1,189 @@
+{
+  "uuid": "9a9a792a15e0804e18f2383e080c251a",
+  "name": "番茄时钟",
+  "icon": "IMAGE_ICON",
+  "version": "3.0.0",
+  "watchface": "false",
+  "device_type": "120", 
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "icon.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_BG",
+        "file": "bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_RESTING",
+        "file": "resting.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_BREST",
+        "file": "bres.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_SMALLT1",
+        "file": "smallt1.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_SMALLT2",
+        "file": "smallt2.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_SMALLT3",
+        "file": "smallt3.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_SMALLT4",
+        "file": "smallt4.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_END",
+        "file": "end.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_TOMATO_TOMATO",
+        "file": "tomato.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_0",
+        "file": "big_0.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_1",
+        "file": "big_1.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_2",
+        "file": "big_2.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_3",
+        "file": "big_3.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_4",
+        "file": "big_4.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_5",
+        "file": "big_5.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_6",
+        "file": "big_6.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_7",
+        "file": "big_7.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_8",
+        "file": "big_8.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_9",
+        "file": "big_9.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_BIG_MAOHAO",
+        "file": "big_maohao.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_MAOHAO",
+        "file": "lit_maohao.bmp"
+      },
+	  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_0",
+        "file": "lit_0.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_1",
+        "file": "lit_1.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_2",
+        "file": "lit_2.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_3",
+        "file": "lit_3.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_4",
+        "file": "lit_4.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_5",
+        "file": "lit_5.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_6",
+        "file": "lit_6.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_7",
+        "file": "lit_7.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_8",
+        "file": "lit_8.bmp"
+      },	
+  	  
+	  {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_9",
+        "file": "lit_9.bmp"
+      }
+	  
+      ]
+      }

@@ -1,0 +1,20 @@
+{
+  "uuid": "fefe2c6995dd8b71a8807b7f997f8c2c",
+  "name": "传统指针",
+  "icon": "",
+  "version": "3.0.0",
+  "watchface": "true",
+  "device_type": "120",  
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_OFFICIAL_BG",
+        "file": "official_bg.bmp"
+      },
+	        {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_OFFICIAL_CENTER",
+        "file": "center.bmp"
+      }
+      ]
+      }

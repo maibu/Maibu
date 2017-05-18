@@ -1,0 +1,15 @@
+{
+  "uuid": "0da98e9294ad77936802557f595ece64",
+  "name": "行者骑行",
+  "icon": "",
+  "version": "3.0.0",
+  "watchface": "true",
+  "device_type": "120",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_BG",
+        "file": "bg.bmp"
+      }
+      ]
+      }

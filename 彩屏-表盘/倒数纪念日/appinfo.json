@@ -1,0 +1,16 @@
+{
+  "uuid": "1d3f7a9a41ee84f8b71d010be332fb40",
+  "name": "倒数纪念日",
+  "icon": "RES_BITMAP_WATCHAPP_MEMORIAL_DAY_POSITIVE_SEQUENCE",
+  "version": "3.0.0",
+  "watchface": "true",
+  "device_type": "120",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHAPP_MEMORIAL_DAY_BG",
+        "file": "bg.bmp"
+      }
+	  
+      ]
+      }

@@ -1,0 +1,15 @@
+{
+  "uuid": "ce7620b8c9b17661b4e7f5ce831f87be",
+  "name": "今日计步",
+  "icon": "RES_BITMAP_SPORT_BG01",
+  "version": "3.0.1",
+  "watchface": "true",
+  "device_type": "120",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_SPORT_BG01",
+        "file": "bg.bmp"
+      }
+      ]
+      }

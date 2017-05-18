@@ -1,0 +1,22 @@
+{
+  "uuid": "a02893052d1d0a33f2b74f9684630b1c",
+  "name": "记事便签",
+  "icon": "RES_BITMAP_WATCHFACE_LITTLE_NOTE_BG01",
+  "version": "3.0.0",
+  "watchface": "true",
+  "device_type": "120",
+  "resources": [
+	     
+	   {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_LITTLE_NOTE_BG",
+        "file": "bg.bmp"
+       },
+	   {
+        "type": "bmp",
+        "name": "RES_BITMAP_WATCHFACE_LITTLE_NOTE_BG01",
+        "file": "bg-01.bmp"
+       }
+	  	  
+      ]
+      }
