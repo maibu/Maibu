@@ -62,8 +62,8 @@
 /*选择勾叉图片位置*/
 #define TIMER_CHOOSE_ORIGIN_X		110
 #define TIMER_CHOOSE_ORIGIN_Y		48
-#define TIMER_CHOOSE_SIZE_H		32
-#define TIMER_CHOOSE_SIZE_W		18	
+#define TIMER_CHOOSE_SIZE_H			32
+#define TIMER_CHOOSE_SIZE_W			18	
 
 
 /*分钟设置最大值*/
@@ -75,7 +75,7 @@
 static int16_t g_timer_sec = -1;
 
 /*当前设置的计时时间，分*/
-static int16_t g_timer_pre_set = 5;
+static int16_t g_timer_pre_set = 15;
 
 /*设置顶部时间ID*/
 static int8_t g_timer_set_top_time_layer_id = -1;
@@ -206,8 +206,15 @@ void timer_callback(date_time_t tick_time, uint32_t millis, void *context)
 }
 
 //timer_select重复代码
-void timer_select_up_and_down(void *context,uint8_t TIMER_SET_MAX_OR_MIN,int16_t g_timer_pre_set_NUMBER,int16_t plus_or_subtract_1)
+void timer_select_up_and_down(void *context, int16_t g_timer_pre_set_NUMBER, int16_t plus_or_subtract_1)
 {
+	//调整变化幅度
+	if(g_timer_pre_set<11);
+	else if(g_timer_pre_set<20)
+		plus_or_subtract_1 *= 2;
+	else
+		plus_or_subtract_1 *= 5;
+	
 	P_Window p_window = (P_Window)context;
 	if (NULL != p_window)
 	{
@@ -219,10 +226,8 @@ void timer_select_up_and_down(void *context,uint8_t TIMER_SET_MAX_OR_MIN,int16_t
 			if (p_layer != NULL)
 			{
 				g_timer_pre_set = g_timer_pre_set + plus_or_subtract_1;
-				if (g_timer_pre_set ==  TIMER_SET_MAX_OR_MIN)
-				{
+				if (g_timer_pre_set>=TIMER_SET_MAX || g_timer_pre_set<=TIMER_SET_MIN)
 					g_timer_pre_set = g_timer_pre_set_NUMBER;
-				}
 		
 				/*设置文本图层新的文本内容并更新显示*/	
 				char text[10] = "";
@@ -238,14 +243,14 @@ void timer_select_up_and_down(void *context,uint8_t TIMER_SET_MAX_OR_MIN,int16_t
 /*定义向上按键事件*/
 void timer_select_up(void *context)
 {
-	timer_select_up_and_down(context,TIMER_SET_MAX,1,1);
+	timer_select_up_and_down(context, 1, 1);
 }
 
 
 /*定义向下按键事件*/
 void timer_select_down(void *context)
 {
-	timer_select_up_and_down(context,TIMER_SET_MIN,60,-1);
+	timer_select_up_and_down(context, 60, -1);
 }
 
 
@@ -447,6 +452,7 @@ void  time_change (enum SysEventType type, void *context)
 
 int main()
 {
+	//simulator_init();
 
 	/*APP编写*/
 	/*创建日期时间设置窗口*/
@@ -455,9 +461,9 @@ int main()
 	/*放入窗口栈显示*/
 	g_timer_window_id = app_window_stack_push(p_window);
 	/*注册一个事件通知回调，当有改变时，改变表盘显示数据*/
-    maibu_service_sys_event_subscribe(time_change);
+    	maibu_service_sys_event_subscribe(time_change);
 
+	//simulator_wait();
 	return 0;
 
 }
-
