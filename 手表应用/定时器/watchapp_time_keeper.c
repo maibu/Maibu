@@ -209,11 +209,11 @@ void timer_callback(date_time_t tick_time, uint32_t millis, void *context)
 void timer_select_up_and_down(void *context, int16_t g_timer_pre_set_NUMBER, int16_t plus_or_subtract_1)
 {
 	//调整变化幅度
-	if(g_timer_pre_set<11);
+	if(g_timer_pre_set<11 || g_timer_pre_set==19); //x1
 	else if(g_timer_pre_set<20)
-		plus_or_subtract_1 *= 2;
+		plus_or_subtract_1 *= 2; //x2
 	else
-		plus_or_subtract_1 *= 5;
+		plus_or_subtract_1 *= 5; //x5
 	
 	P_Window p_window = (P_Window)context;
 	if (NULL != p_window)
