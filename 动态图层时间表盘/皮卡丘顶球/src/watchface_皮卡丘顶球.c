@@ -80,6 +80,11 @@ static uint32_t bmp_ani_frames[] =
 	RES_BITMAP_WATCHFACE_ANI_5
 };
 
+//背景颜色
+enum GColor g_backgroundColor = GColorBlack;
+
+static uint32_t APP_SET_PRESIST_DATA_KEY = 0x2003;
+static char app_set_text[20] = {0};
 
 /*动画图层ID*/
 static int8_t g_layer_ani_id = -1;
@@ -260,27 +265,39 @@ static P_Window init_window(void)
 		return NULL;
 	}
 
+    app_persist_read_data(APP_SET_PRESIST_DATA_KEY, 0, app_set_text, sizeof(app_set_text));
+
+
+    if(!strcmp(app_set_text, "white"))
+    {
+        g_backgroundColor = GColorWhite;
+    }
+    else
+    {
+        g_backgroundColor = GColorBlack;
+    }
+
     /*创建背景层*/
-    display_target_layer(p_window,&frame_bg,GAlignCenter,GColorBlack,bmp_bg,0);
+    display_target_layer(p_window,&frame_bg,GAlignCenter,g_backgroundColor,bmp_bg,0);
 
     /*创建月日图层*/
     sprintf(text_buf, "%d%d-%d%d", watch_data[6], watch_data[7], watch_data[8], watch_data[9]);
-    display_text_layer(p_window,&frame_date,GAlignCenter,GColorBlack,text_buf,U_ASCII_ARIAL_16);
+    display_text_layer(p_window,&frame_date,GAlignCenter,g_backgroundColor,text_buf,U_ASCII_ARIAL_16);
 
      /*创建星期图层*/
     sprintf(text_buf, "%s", wday_string_arr[watch_data[10]]);
-    display_text_layer(p_window,&frame_wday,GAlignCenter,GColorBlack,text_buf,U_GBK_SIMSUNBD_14);
+    display_text_layer(p_window,&frame_wday,GAlignCenter,g_backgroundColor,text_buf,U_GBK_SIMSUNBD_14);
 
     /*创建时分图层*/
     sprintf(text_buf, "%d%d:%d%d", watch_data[0], watch_data[1], watch_data[2], watch_data[3]);
-    display_text_layer(p_window,&frame_hm,GAlignLeft,GColorBlack,text_buf,U_ASCII_ARIAL_24);
+    display_text_layer(p_window,&frame_hm,GAlignLeft,g_backgroundColor,text_buf,U_ASCII_ARIAL_24);
 
     /*创建秒图层*/
     sprintf(text_buf, "%d%d", watch_data[4], watch_data[5]);
-    g_layer_sec_id= display_text_layer(p_window,&frame_sec,GAlignCenter,GColorBlack,text_buf,U_ASCII_ARIAL_42);
+    g_layer_sec_id= display_text_layer(p_window,&frame_sec,GAlignCenter,g_backgroundColor,text_buf,U_ASCII_ARIAL_42);
 
 	/*创建动画图层*/
-	g_layer_ani_id = display_target_layer(p_window,&bmp_ani_rect,GAlignLeft,GColorBlack,bmp_ani_frames,g_ani_index);
+	g_layer_ani_id = display_target_layer(p_window,&bmp_ani_rect,GAlignLeft,g_backgroundColor,bmp_ani_frames,g_ani_index);
 
     /*定义窗口定时器，用于动作刷新*/
     app_window_timer_subscribe(p_window, 1000, ani_callback, NULL);
@@ -304,6 +321,28 @@ void window_reloading(void)
 		}
 	}
 
+}
+
+void watchapp_comm_callback(enum ESyncWatchApp type, uint8_t *context, uint16_t context_len)
+{
+    if(type == ESyncWatchAppUpdateParam)
+    {
+        if(context_len > 0&& context_len < sizeof(app_set_text))
+        {
+            memcpy(app_set_text,context,context_len);
+            app_set_text[context_len] = '\0';
+
+           
+            app_persist_write_data_extend(APP_SET_PRESIST_DATA_KEY,app_set_text,sizeof(app_set_text));
+        }
+        else
+        {
+            memset(app_set_text,0,sizeof(app_set_text));
+        }
+
+
+        window_reloading(); 
+    }
 }
 
 /*
@@ -330,6 +369,9 @@ int main()
 {
 //simulator_init();
 
+    //创建配置存储
+    app_persist_create(APP_SET_PRESIST_DATA_KEY, sizeof(app_set_text));
+
     get_watch_data(0);
 	/*创建显示表盘窗口*/
 	P_Window p_window = init_window();
@@ -340,6 +382,9 @@ int main()
 
 		/*注册一个事件通知回调，当有时间改变时，立即更新时间*/
         maibu_service_sys_event_subscribe(app_watch_time_change);
+
+        //注册手机设置回调函数
+        maibu_comm_register_watchapp_callback(watchapp_comm_callback);
 	}
 //simulator_wait();
 	return 0;

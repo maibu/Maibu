@@ -2,7 +2,7 @@
   "uuid": "bca00f07805e25da6f0ae6e17a8a30cb",
   "name": "Pikachu&PokeBall",
   "icon": "RES_BITMAP_WATCHFACE_ICON",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "watchface": "true",
   "resources": [
     {
