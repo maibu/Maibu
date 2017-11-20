@@ -1,0 +1,21 @@
+{
+  "uuid": "73d2ae5b237e160843e6cc87435568f2",
+  "name": "外汇表盘",
+  "icon": "IMAGE_ICON",
+  "version": "1.3.2",
+  "watchface": "true",
+  "device_type": "120",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "BMP_EXCHANGE_BG",
+        "file": "bg.bmp"
+      },
+	  {
+      "type":"bmp",
+      "name":"NOTICE_BITMAP",
+      "file":"timer_sys_bell2.bmp"
+      }
+	  
+      ]
+}
