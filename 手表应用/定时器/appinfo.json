@@ -2,7 +2,7 @@
   "uuid": "6ea03a96b2638c393498f4ce79d737de",
   "name": "定时器",
   "icon": "IMAGE_ICON",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "watchface": "false",
   "resources": [
       {
@@ -30,5 +30,5 @@
         "name": "RES_BITMAP_TIMER_SYS_BELL",
         "file": "timer_sys_bell.bmp"
       }
-      ]
-      }
+  ]
+}
